@@ -1,3 +1,32 @@
+# 🎖️ ISO Generals
+
+## Introduction
+
+**ISO Generals** is a strategic educational board game designed to teach players the principles of **ISO 9001:2015 Quality Management Systems (QMS)** and **ISO 45001:2018 Occupational Health and Safety Management Systems (OHSMS)**.
+
+Players assume the roles of key personnel in a manufacturing company, such as the Factory Manager, Production Manager, Quality Assurance Manager, Health and Safety Manager, Engineers, and Machine Operators. By combining strategic gameplay with realistic workplace scenarios, players learn the importance of quality management, workplace safety, operational efficiency, and compliance with international ISO standards.
+
+Throughout the game, players encounter **ISO Game Cards** that present quality and safety situations, requiring them to apply ISO concepts while advancing toward their objective. The game promotes critical thinking, decision-making, teamwork, and a deeper understanding of manufacturing operations in an engaging and competitive environment.
+
+---
+
+# 📖 User Manual
+
+The following images provide the complete user manual for **ISO Generals**, including the game components, board layout, setup instructions, gameplay mechanics, card descriptions, battle rules, and winning conditions.
+
+## User Manual (Page 1)
+
+<p align="center">
+  <img src="https://github.com/VelasquezGilianne/ISO-GENERALS/blob/cca5e41c872fca4adbcbb6e6dc1fa826bf13dcae/ISO%20GAME%20CARDS/UPLOADS/USER%20MANUAL%20PAGE%201.png" width="800">
+</p>
+
+---
+
+## User Manual (Page 2)
+
+<p align="center">
+  <img src="https://github.com/VelasquezGilianne/ISO-GENERALS/blob/cca5e41c872fca4adbcbb6e6dc1fa826bf13dcae/ISO%20GAME%20CARDS/UPLOADS/USER%20MANUAL%20PAGE%202.png" width="800">
+</p>
 <!DOCTYPE html>
 <html lang="en">
 <head>
