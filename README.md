@@ -1,1 +1,36 @@
-# ISO-GENERALS
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>ISO Game Cards</h1>
+    <h2>Introduction</h2>
+    <p>
+        The ISO Game Cards are the core gameplay component of the board game,
+        designed to reinforce concepts related to the ISO 9000 Quality Management
+        System (QMS) and ISO 45001 Occupational Health and Safety Management
+        System (OHSMS). Each card presents a real-world manufacturing scenario,
+        standard operating procedure, or workplace event that influences the
+        progress of the game. Players must apply their understanding of quality,
+        safety, and operational practices to gain strategic advantages while
+        navigating challenges within the factory environment.
+    </p>
+    <hr>
+    <h2>ISO Game Card 1</h2>
+    <div align="center">
+        <img src="https://github.com/VelasquezGilianne/ISO-GENERALS/blob/4c57fe43f8289f838ab8695c7aeaf690a6d2b4a3/ISO%20GAME%20CARDS/UPLOADS/ISO%20GAME%20CARD%20(PAGE%201).png?raw=true"
+             alt="ISO Game Card Page 1"
+             width="600">
+    </div>
+    <hr>
+    <h2>ISO Game Card 2</h2>
+    <div align="center">
+        <img src="https://github.com/VelasquezGilianne/ISO-GENERALS/blob/4c57fe43f8289f838ab8695c7aeaf690a6d2b4a3/ISO%20GAME%20CARDS/UPLOADS/ISO%20GAME%20CARD%20(PAGE%202).png?raw=true"
+             alt="ISO Game Card Page 2"
+             width="600">
+    </div>
+
+</body>
+</html>
